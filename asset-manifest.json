@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cloudplan/static/css/main.25a83deb.chunk.css",
+    "main.js": "/cloudplan/static/js/main.a166406b.chunk.js",
+    "main.js.map": "/cloudplan/static/js/main.a166406b.chunk.js.map",
+    "runtime-main.js": "/cloudplan/static/js/runtime-main.bd983b00.js",
+    "runtime-main.js.map": "/cloudplan/static/js/runtime-main.bd983b00.js.map",
+    "static/js/2.609165ec.chunk.js": "/cloudplan/static/js/2.609165ec.chunk.js",
+    "static/js/2.609165ec.chunk.js.map": "/cloudplan/static/js/2.609165ec.chunk.js.map",
+    "static/js/3.297d81b4.chunk.js": "/cloudplan/static/js/3.297d81b4.chunk.js",
+    "static/js/3.297d81b4.chunk.js.map": "/cloudplan/static/js/3.297d81b4.chunk.js.map",
+    "index.html": "/cloudplan/index.html",
+    "static/css/main.25a83deb.chunk.css.map": "/cloudplan/static/css/main.25a83deb.chunk.css.map",
+    "static/js/2.609165ec.chunk.js.LICENSE.txt": "/cloudplan/static/js/2.609165ec.chunk.js.LICENSE.txt",
+    "static/media/pricing_table.css": "/cloudplan/static/media/img_1.01cf25ee.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd983b00.js",
+    "static/js/2.609165ec.chunk.js",
+    "static/css/main.25a83deb.chunk.css",
+    "static/js/main.a166406b.chunk.js"
+  ]
+}
